@@ -1,7 +1,8 @@
-package com.moneyyapp.task1;
+package com.moneyyapp.task1.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
+import com.moneyyapp.task1.R;
 
 public class MainActivity extends AppCompatActivity {
 
